@@ -1,37 +1,35 @@
 # Hi there, I'm Fathur! 👋
 
-
 ### 🚀 About Me
 
-- 🔭 Currently working on **[Project Utama Anda / Nama Perusahaan/Kampus]**
-- 🌱 Learning **[Teknologi/Bahasa Pemrograman yang Sedang Dipelajari]**
-- 💬 Ask me about **[Keahlian Anda, misal: React, Python, UI/UX]**
-- ⚡ Fun fact: **[Fakta Unik/Hobi Singkat Anda, misal: Coffee addict & gamer]**
-- 📫 How to reach me: **[Email Anda]**
+- 🕵️ **About:** I'm a Cyber Security Larper
+- 🎯 **Interests:** Interested in Cyber Security, Reverse Engineering, Malware, and Operating Systems
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🌐 Connect with Me
+### 📊 GitHub Activity
 
-<p align="left">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/USERNAME_INSTAGRAM_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://PORTFOLIO_ANDA.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatur510&theme=tokyo-night" width="100%" />
+</div>
+
+---
+
+<p align="center">
+  <i>"The end of learn is Death"</i>
 </p>
