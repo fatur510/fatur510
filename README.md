@@ -31,5 +31,5 @@
 ---
 
 <p align="center">
-  <i>"The end of learn is Death"</i>
+  <i>"The end of studying, is Death"</i>
 </p>
